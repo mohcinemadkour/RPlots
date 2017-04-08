@@ -1,4 +1,4 @@
-R_snippets
+RPlots
 ==========
 
-R Scripts for general data analysis and plotting
+R Scripts for general data plotting
